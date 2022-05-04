@@ -1,12 +1,12 @@
 {
-  "heading": "Onderwijsuitgaven stijgen in alle EU-landen",
-  "subheading": "Algemene overheidsuitgaven voor militaire defensie als percentage van het BBP in landen van de Europese Unie in 2020",
+  "heading": "EU-digitalisering per land",
+  "subheading": "Index digitale economie en samenleving (gegevens 2020)",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van het BBP",
+  "tooltip1": "DESI-index",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Europese Commissie",
   "textNoteDescription": "Opmerking",
-  "textNote": "Overheidsuitgaven volgens COFOG (UNSD-classificatie van overheidsfuncties, gerepliceerd in ESR2010) functie en type.",
+  "textNote": "DESI verzamelt gegevens met betrekking tot menselijk kapitaal, connectiviteit, integratie van digitale technologie en digitale openbare diensten.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitization-performance"
 }

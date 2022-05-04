@@ -1,12 +1,12 @@
 {
-  "heading": "Hariduskulud kõigis ELi riikides",
-  "subheading": "Valitsussektori kulutused sõjalisele kaitsele protsendina SKTst Euroopa Liidu riikides 2020. aastal",
+  "heading": "ELi digiteerimine riigiti",
+  "subheading": "Digimajanduse ja -ühiskonna indeks (2020. aasta andmed)",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "SKTst",
+  "tooltip1": "DESI indeks",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Euroopa Komisjon",
   "textNoteDescription": "Märge",
-  "textNote": "Valitsemissektori kulud COFOG-i (UNSD klassifikatsioon valitsusfunktsioonide klassifikatsioonist, korratud ESA2010-s) funktsiooni ja tüübi järgi.",
+  "textNote": "DESI koondab andmeid inimkapitali, ühenduvuse, digitehnoloogia integratsiooni ja digitaalsete avalike teenuste kohta.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

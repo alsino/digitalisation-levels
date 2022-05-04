@@ -1,12 +1,12 @@
 {
-  "heading": "Az oktatási kiadások az EU összes országában emelkednek",
-  "subheading": "Az államháztartás katonai védelemre fordított kiadásai a GDP százalékában az Európai Unió országaiban 2020-ban",
+  "heading": "EU-s digitalizálás országonként",
+  "subheading": "Digitális Gazdaság és Társadalom Index (2020-as adatok)",
   "legend1": "Nincs elérhető adat",
-  "tooltip1": "a GDP",
+  "tooltip1": "DESI index",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Európai Bizottság",
   "textNoteDescription": "jegyzet",
-  "textNote": "Kormányzati kiadások COFOG (UNSD Classification of Government Functions, replikálva az ESA2010-ben) funkció és típus szerint.",
+  "textNote": "A DESI a humán tőkével, a konnektivitással, a digitális technológia integrációjával és a digitális közszolgáltatásokkal kapcsolatos adatokat gyűjti össze.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

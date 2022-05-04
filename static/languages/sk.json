@@ -1,12 +1,12 @@
 {
-  "heading": "Výdavky na vzdelávanie vo všetkých krajinách EÚ",
-  "subheading": "Výdavky verejnej správy na vojenskú obranu ako percento HDP v krajinách Európskej únie v roku 2020",
+  "heading": "Digitalizácia EÚ na krajinu",
+  "subheading": "Index digitálnej ekonomiky a spoločnosti (údaje za rok 2020)",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "HDP",
+  "tooltip1": "DESI index",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Európska komisia",
   "textNoteDescription": "Poznámka",
-  "textNote": "Vládne výdavky podľa funkcie a typu COFOG (klasifikácia funkcií verejnej správy OSN, replikovaná v ESA2010).",
+  "textNote": "DESI zostavuje údaje týkajúce sa ľudského kapitálu, konektivity, integrácie digitálnych technológií a digitálnych verejných služieb.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=sk"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

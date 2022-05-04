@@ -1,12 +1,12 @@
 {
-  "heading": "Wzrost wydatków na edukację we wszystkich krajach UE",
-  "subheading": "Wydatki sektora instytucji rządowych i samorządowych na obronę wojskową jako procent PKB w krajach Unii Europejskiej w 2020 roku",
+  "heading": "Cyfryzacja UE według kraju",
+  "subheading": "Indeks gospodarki cyfrowej i społeczeństwa cyfrowego (dane z 2020 r.)",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "PKB",
+  "tooltip1": "Indeks DESI",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat",
+  "textSource": "Komisja Europejska",
   "textNoteDescription": "Notatka",
-  "textNote": "Wydatki rządowe według COFOG (klasyfikacja funkcji rządu według UNSD, powtórzona w ESA2010) funkcji i rodzaju.",
+  "textNote": "DESI gromadzi dane dotyczące kapitału ludzkiego, łączności, integracji technologii cyfrowych i cyfrowych usług publicznych.",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

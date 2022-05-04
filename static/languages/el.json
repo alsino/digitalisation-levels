@@ -1,12 +1,12 @@
 {
-  "heading": "Αυξάνονται οι δαπάνες για την εκπαίδευση σε όλες τις χώρες της ΕΕ",
-  "subheading": "Δαπάνες γενικής κυβέρνησης για στρατιωτική άμυνα ως ποσοστό του ΑΕΠ στις χώρες της Ευρωπαϊκής Ένωσης το 2020",
+  "heading": "Ψηφιοποίηση ΕΕ ανά χώρα",
+  "subheading": "Δείκτης Ψηφιακής Οικονομίας και Κοινωνίας (στοιχεία 2020)",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
-  "tooltip1": "του ΑΕΠ",
+  "tooltip1": "Δείκτης DESI",
   "textSourceDescription": "Πηγή",
-  "textSource": "Eurostat",
+  "textSource": "Ευρωπαϊκή Επιτροπή",
   "textNoteDescription": "Σημείωση",
-  "textNote": "Κρατικές δαπάνες κατά COFOG (ταξινόμηση UNSD των λειτουργιών της κυβέρνησης, που αναπαράγεται στο ESA2010) λειτουργία και τύπος.",
+  "textNote": "Η DESI συγκεντρώνει δεδομένα που σχετίζονται με το ανθρώπινο κεφάλαιο, τη συνδεσιμότητα, την ενοποίηση της ψηφιακής τεχνολογίας και τις ψηφιακές δημόσιες υπηρεσίες.",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

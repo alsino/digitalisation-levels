@@ -1,12 +1,12 @@
 {
-  "heading": "Tháinig méadú ar chaiteachas oideachais ar fud thíortha uile an AE",
-  "subheading": "Caiteachas an rialtais ghinearálta ar chosaint mhíleata mar chéatadán den OTI i dtíortha an Aontais Eorpaigh in 2020",
+  "heading": "digitiú an AE de réir tíre",
+  "subheading": "Innéacs Geilleagar Digiteach agus Sochaí (sonraí 2020)",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de OTI",
+  "tooltip1": "Innéacs DESI",
   "textSourceDescription": "Foinse",
-  "textSource": "Eurostat",
+  "textSource": "An Coimisiún Eorpach",
   "textNoteDescription": "Nóta",
-  "textNote": "Caiteachas rialtais de réir feidhme agus cineál COFOG (aicmiú UNSD ar fheidhmeanna an rialtais, arna mhacasamhlú in CCE2010).",
+  "textNote": "Tiomsaíonn DESI sonraí a bhaineann le caipiteal daonna, nascacht, comhtháthú na teicneolaíochta digití agus seirbhísí poiblí digiteacha.",
   "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=ga"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "El gasto en educación aumenta en todos los países de la UE",
-  "subheading": "Gasto del gobierno general en defensa militar como porcentaje del PIB en países de la Unión Europea en 2020",
+  "heading": "Digitalización de la UE por país",
+  "subheading": "Índice de Economía y Sociedad Digital (datos de 2020)",
   "legend1": "Datos no disponibles",
-  "tooltip1": "del PIB",
+  "tooltip1": "Índice DESI",
   "textSourceDescription": "Fuente",
-  "textSource": "Eurostat",
+  "textSource": "Comisión Europea",
   "textNoteDescription": "Nota",
-  "textNote": "Gasto público por función y tipo de COFOG (clasificación de funciones de gobierno de la UNSD, replicada en ESA2010).",
+  "textNote": "DESI recopila datos relacionados con el capital humano, la conectividad, la integración de la tecnología digital y los servicios públicos digitales.",
   "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

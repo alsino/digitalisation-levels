@@ -1,12 +1,12 @@
 {
-  "heading": "L-infiq fl-edukazzjoni jiżdied fil-pajjiżi kollha tal-UE",
-  "subheading": "In-nefqa ġenerali tal-gvern fuq id-difiża militari bħala perċentwal tal-PGD fil-pajjiżi tal-Unjoni Ewropea fl-2020",
+  "heading": "Diġitizzazzjoni tal-UE għal kull pajjiż",
+  "subheading": "Indiċi tal-Ekonomija u s-Soċjetà Diġitali (dejta tal-2020)",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tal-PGD",
+  "tooltip1": "indiċi DESI",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "Kummissjoni Ewropea",
   "textNoteDescription": "Nota",
-  "textNote": "Nefqa tal-gvern skont il-funzjoni u t-tip tal-COFOG (klassifikazzjoni UNSD tal-funzjonijiet tal-gvern, replikata fl-ESA2010).",
+  "textNote": "DESI jiġbor data relatata mal-kapital uman, il-konnettività, l-integrazzjoni tat-teknoloġija diġitali u s-servizzi pubbliċi diġitali.",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

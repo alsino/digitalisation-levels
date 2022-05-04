@@ -1,12 +1,12 @@
 {
-  "heading": "Izglītības izdevumi visās ES valstīs",
-  "subheading": "Vispārējie valdības izdevumi militārajai aizsardzībai procentos no IKP Eiropas Savienības valstīs 2020. gadā",
+  "heading": "ES digitalizācija katrā valstī",
+  "subheading": "Digitālās ekonomikas un sabiedrības indekss (2020. gada dati)",
   "legend1": "Nav pieejami dati",
-  "tooltip1": "no IKP",
+  "tooltip1": "DESI indekss",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eiropas Komisija",
   "textNoteDescription": "Piezīme",
-  "textNote": "Valdības izdevumi pēc COFOG (UNSD valdības funkciju klasifikācija, replicēta EKS2010) funkcijas un veida.",
+  "textNote": "DESI apkopo datus, kas saistīti ar cilvēkkapitālu, savienojamību, digitālo tehnoloģiju integrāciju un digitālajiem publiskajiem pakalpojumiem.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

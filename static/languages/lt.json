@@ -1,12 +1,12 @@
 {
-  "heading": "Išlaidos švietimui visose ES šalyse",
-  "subheading": "Bendrosios valdžios išlaidos karinei gynybai procentais nuo BVP Europos Sąjungos šalyse 2020 m",
+  "heading": "ES skaitmeninimas pagal šalį",
+  "subheading": "Skaitmeninės ekonomikos ir visuomenės indeksas (2020 m. duomenys)",
   "legend1": "Nėra duomenų",
-  "tooltip1": "BVP",
+  "tooltip1": "DESI indeksas",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "Europos Komisija",
   "textNoteDescription": "Pastaba",
-  "textNote": "Valdžios išlaidos pagal COFOG (UNSD vyriausybės funkcijų klasifikatorius, pakartotas ESS2010) funkciją ir tipą.",
+  "textNote": "DESI kaupia duomenis, susijusius su žmogiškuoju kapitalu, jungiamumu, skaitmeninių technologijų integravimu ir skaitmeninėmis viešosiomis paslaugomis.",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

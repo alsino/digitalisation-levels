@@ -1,12 +1,12 @@
 {
-  "heading": "Разходите за образование се увеличават във всички страни от ЕС",
-  "subheading": "Държавните разходи за военна отбрана като процент от БВП в страните от Европейския съюз през 2020 г.",
+  "heading": "Дигитализация на ЕС по държава",
+  "subheading": "Индекс на цифровата икономика и общество (данни за 2020 г.)",
   "legend1": "Няма данни",
-  "tooltip1": "от БВП",
+  "tooltip1": "DESI индекс",
   "textSourceDescription": "Източник",
-  "textSource": "Евростат",
+  "textSource": "Европейска комисия",
   "textNoteDescription": "Забележка",
-  "textNote": "Държавни разходи по COFOG (класификация на функциите на правителството на UNSD, възпроизведена в ESA2010) функция и вид.",
+  "textNote": "DESI събира данни, свързани с човешкия капитал, свързаността, интеграцията на цифровите технологии и цифровите обществени услуги.",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Koulutusmenot kasvavat kaikissa EU-maissa",
-  "subheading": "Julkiset menot sotilaalliseen puolustukseen suhteessa BKT:hen Euroopan unionin maissa vuonna 2020",
+  "heading": "EU-digitointi maittain",
+  "subheading": "Digitaalisen talouden ja yhteiskunnan indeksi (vuoden 2020 tiedot)",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "BKT:sta",
+  "tooltip1": "DESI-indeksi",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat",
+  "textSource": "Euroopan komissio",
   "textNoteDescription": "Huomautus",
-  "textNote": "Julkiset menot COFOG:n (UNSD:n julkishallinnon toimintojen luokittelu, jäljennetty EKT2010:ssä) toiminnon ja tyypin mukaan.",
+  "textNote": "DESI kokoaa henkilöpääomaan, liitettävyyteen, digitaalisen teknologian integraatioon ja digitaalisiin julkisiin palveluihin liittyvää tietoa.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi"
+  "linkDataAccess": "https://digital-strategy.ec.europa.eu/en/policies/countries-digitisation-performance"
 }
